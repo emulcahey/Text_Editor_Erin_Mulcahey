@@ -3,6 +3,8 @@ import Editor from './editor';
 import './database';
 import '../css/style.css';
 
+console.log('hello, progressive web app!')
+
 const main = document.querySelector('#main');
 main.innerHTML = '';
 
