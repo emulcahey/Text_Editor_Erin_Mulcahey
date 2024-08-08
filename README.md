@@ -12,7 +12,7 @@ While in the browser, the user will see a download button in the upper left. The
 
 A user can type anything into the text editor. The editor will save what is typed. There is an online and an offline version. The application can be downloaded to use the offline version.
 
-![Picture of live internet application](assets/webversionscreenshot.)
+![Picture of live internet application](assets/webversionscreenshot.png)
 ![Picture of offline application](assets/downloadedappscreenshot.png)
 
 ## Credits
