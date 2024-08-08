@@ -20,8 +20,6 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "mini-css-extract-plugin": "^2.9.0",
-    "nodemon": "^2.0.4",
-    "webpack-cli": "^5.1.4"
+    "nodemon": "^2.0.4"
   }
 }

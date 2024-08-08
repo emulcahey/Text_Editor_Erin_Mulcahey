@@ -56,9 +56,9 @@ h1 {
   height: calc(100vh - var(--navbar-height));
 }
 
-#buttonInstall.hidden {
+/* #buttonInstall.hidden {
   display: none;
-}
+}  */
 
 @keyframes rotate-forever {
   0% {
@@ -196,6 +196,9 @@ h1 {
   background-color: #31a9e1;
 }
 
+.hidden {
+  display: none;
+}
 @media only screen and (max-width: 600px) {
   .nav-btn {
     display: none;
